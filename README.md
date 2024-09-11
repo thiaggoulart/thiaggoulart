@@ -29,7 +29,7 @@
   <img align="center" alt="Typescript icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Angular icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Angular Material icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
-  <img align="center" alt="ReactJS icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactjs/reactjs-original.svg" />
+  <img align="center" alt="ReactJS icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Swift icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 </div>
 
