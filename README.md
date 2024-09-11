@@ -14,7 +14,7 @@
 ##
 <h3>Languages and tools:</h3>
 <picture>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thiaggoulart&show_icons=true&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thiaggoulart&show_icons=true&theme=cobalt&card_width=320" />
 </picture>
 <picture>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiaggoulart&layout=compact&langs_count=8&card_width=320" />
